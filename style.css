@@ -1,0 +1,92 @@
+
+body{
+     background-color:black;
+ }
+ hr{
+    color: white;
+    position: relative;
+    bottom: -10px;
+    font-family: "consolas",sans-serif;
+    font-size: 20px;
+ }
+ .fa-house{
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    color:white;
+    size: 50px;
+ }
+ #textbox1{
+   border: 10px solid;
+   border-color: rgb(100, 100, 100);
+   background-color: rgb(44, 44, 44); 
+   width: 1000px;
+   height: auto;
+   margin: 10px;
+   padding: 10px;
+   text-align: left;
+    color: white;
+    font-family: "consolas",sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+   
+ }
+ #textbox2{
+   border: 10px solid;
+   border-color: rgb(100, 100, 100);
+   background-color: rgb(44, 44, 44); 
+   width: 1000px;
+   height: auto;
+   margin: 10px;
+   padding: 10px;
+   text-align: left;
+    color: white;
+    font-family: "consolas",sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+   
+ }
+#title1{
+   font-size: 16px;
+   font-family: 40px;
+   color: white;
+   text-align: center;
+   font-family: "consolas",sans-serif;
+}
+#title2{
+   font-size: 16px;
+   font-family: "consolas",sans-serif;
+   color: white;
+   text-align: center;
+   font-family: "consolas",sans-serif;
+}
+
+#title3{
+   font-size: 16px;
+   color: white;
+   font-family: "consolas",sans-serif;
+   text-align: center;
+}
+
+#abme1{
+    color: white;
+    font-family: "consolas",sans-serif;
+    font-size: 16px;
+}
+ 
+ main{
+   margin-left: 30px; 
+   margin-right: 30px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+   
+ }
+ body{
+   margin-left: 30px;
+   margin-right: 30px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+ }
+ 
