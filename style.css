@@ -5,22 +5,31 @@ body{
  hr{
     color: white;
     position: relative;
-    bottom: -10px;
     font-family: "consolas",sans-serif;
     font-size: 20px;
  }
  .fa-house{
-    position: absolute;
-    left: 50px;
-    top: 50px;
+   position: relative;
+   left: auto;
     color:white;
-    size: 50px;
+ }
+ .fa-twitter{
+   position: relative;
+    left: 25px;
+    top: 5px;
+   color:white;
+ }
+ .fa-github{
+   position: relative;
+    left: 25px;
+    top: 5px;
+   color:white;
  }
  #textbox1{
    border: 10px solid;
    border-color: rgb(100, 100, 100);
    background-color: rgb(44, 44, 44); 
-   width: 1000px;
+   width: auto;
    height: auto;
    margin: 10px;
    padding: 10px;
@@ -29,14 +38,14 @@ body{
     font-family: "consolas",sans-serif;
     font-size: 20px;
     position: relative;
-    left: 100px;
+    left: auto;
    
  }
  #textbox2{
    border: 10px solid;
    border-color: rgb(100, 100, 100);
    background-color: rgb(44, 44, 44); 
-   width: 1000px;
+   width: auto;
    height: auto;
    margin: 10px;
    padding: 10px;
@@ -45,7 +54,7 @@ body{
     font-family: "consolas",sans-serif;
     font-size: 20px;
     position: relative;
-    left: 100px;
+    left: auto;
    
  }
 #title1{
@@ -74,6 +83,20 @@ body{
     color: white;
     font-family: "consolas",sans-serif;
     font-size: 16px;
+}
+#contact1{
+   color: white;
+    font-family: "consolas",sans-serif;
+    font-size: 12px;
+}
+a:link{
+   color: white;
+}
+a:hover{
+   color: grey;
+}
+a:active{
+   color: rgb(69, 169, 169);
 }
  
  main{
