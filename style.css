@@ -25,7 +25,7 @@ body{
     top: 5px;
    color:white;
  }
- #textbox1{
+ #textBox1{
    border: 10px solid;
    border-color: rgb(100, 100, 100);
    background-color: rgb(44, 44, 44); 
@@ -41,7 +41,7 @@ body{
     left: auto;
    
  }
- #textbox2{
+ #textBox2{
    border: 10px solid;
    border-color: rgb(100, 100, 100);
    background-color: rgb(44, 44, 44); 
@@ -57,14 +57,14 @@ body{
     left: auto;
    
  }
-#title1{
+#homeTitle1{
    font-size: 16px;
    font-family: 40px;
    color: white;
    text-align: center;
    font-family: "consolas",sans-serif;
 }
-#title2{
+#homeTitle2{
    font-size: 16px;
    font-family: "consolas",sans-serif;
    color: white;
@@ -72,14 +72,14 @@ body{
    font-family: "consolas",sans-serif;
 }
 
-#title3{
+#aboutMeTitle1{
    font-size: 16px;
    color: white;
    font-family: "consolas",sans-serif;
    text-align: center;
 }
 
-#abme1{
+#aboutMeTitle2{
     color: white;
     font-family: "consolas",sans-serif;
     font-size: 16px;
